@@ -1,0 +1,2 @@
+# PIC12F1840-UART
+Use UART on PIC12F1840. Work on MPLAB X IDE with XC8 compiler.
